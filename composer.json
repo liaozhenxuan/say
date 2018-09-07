@@ -1,0 +1,19 @@
+{
+    "name": "liaozhenxuan/say",
+    "description": "composer say project",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "liaozhenxuan",
+            "email": "liaozhenxuan@dfl.com.cn"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Hello\\": "src/"
+        }
+    }
+}
