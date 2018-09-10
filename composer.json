@@ -10,12 +10,9 @@
         }
     ],
     "autoload": {
-        "classmap": [
-            "database"
-        ],
         "psr-4": {
-            "Liaozhenxuan\\Hello\\": "src/hello/hello",
-            "Liaozhenxuan\\Say\\": "src/hello/say"
+            "Liaozhenxuan\\Hello\\": "src/liaozhenxuan/hello/hello",
+            "Liaozhenxuan\\Say\\": "src/liaozhenxuan/hello/say"
         }
     },
     "require": {}
