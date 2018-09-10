@@ -1,7 +1,7 @@
 {
     "name": "liaozhenxuan/say",
     "description": "composer by liaozhenxuan_say",
-    "type": "composer-plugin",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
