@@ -11,8 +11,8 @@
     ],
     "autoload": {
         "psr-4": {
-            "Liaozhenxuan\\Hello\\": "src/liaozhenxuan/hello/hello",
-            "Liaozhenxuan\\Say\\": "src/liaozhenxuan/hello/say"
+            "Liaozhenxuan\\Hello\\": "src/liaozhenxuan/hello",
+            "Liaozhenxuan\\Say\\": "src/liaozhenxuan/say"
         }
     },
     "require": {}

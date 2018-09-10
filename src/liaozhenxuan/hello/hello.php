@@ -3,7 +3,7 @@ namespace Liaozhenxuan\Hello;
 
 class Hello{
 
-    public function desc()
+    public static function desc()
     {
         echo 'hello';
     }

@@ -3,7 +3,7 @@ namespace Liaozhenxuan\Say;
 
 class Say
 {
-    public function desc()
+    public static function desc()
     {
         echo 'say';
     }
